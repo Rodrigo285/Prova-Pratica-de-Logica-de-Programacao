@@ -1,0 +1,7 @@
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio4\bin\Debug\Exercicio4.exe.config
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio4\bin\Debug\Exercicio4.exe
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio4\bin\Debug\Exercicio4.pdb
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio4\obj\Debug\Exercicio4.csproj.AssemblyReference.cache
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio4\obj\Debug\Exercicio4.csproj.CoreCompileInputs.cache
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio4\obj\Debug\Exercicio4.exe
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio4\obj\Debug\Exercicio4.pdb
