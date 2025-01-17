@@ -1,0 +1,7 @@
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio5\bin\Debug\Exercicio5.exe.config
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio5\bin\Debug\Exercicio5.exe
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio5\bin\Debug\Exercicio5.pdb
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio5\obj\Debug\Exercicio5.csproj.AssemblyReference.cache
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio5\obj\Debug\Exercicio5.exe
+D:\projetosC#\Prova-Pratica-de-Logica-de-Programacao\Algoritmos\Exercicio5\obj\Debug\Exercicio5.pdb
